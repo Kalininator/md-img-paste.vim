@@ -1,4 +1,4 @@
-#Forked to add custom image name input
+# Forked to add custom image name input
 
 # md-img-paste.vim
 Yet simple tool to paste images into markdown files
